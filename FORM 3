@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <body>
+<form>
+  <h1>Event Registration</h1>
+  <label for="Name">NAME</label>
+  <input type="text" id="Name">
+  <br/>
+  <br/>
+    <label for="Email">EMAIL ID</label>
+  <input type="text" id="Email">
+  <br/>
+  <br/>
+  <label for="occupation">occupation</label>
+    <select name="occupation" id="occupation">
+      <option value="student">student</option>
+      <option value="profession">profession</option>
+      <option value="expert">expert</option>
+    </select>
+  <br/>
+  <br/>
+  <fieldset>
+    <legend>TOPIC OF INTERSET</legend>
+    <label for=box1>HTML</label>
+    <input type="checkbox" id="box1">
+    <br/>
+  <br/>
+        <label for=box2>CSS</label>
+    <input type="checkbox" id="box2">
+        <br/>
+  <br/>
+        <label for=box3>JAVA</label>
+    <input type="checkbox" id="box3">
+  </fieldset>
+  <label for="textarea">comments</label>
+  <textarea name="textarea" id="textarea" rows="5"cols="16"></textarea>
+</form>
+    </body>
+  </head>
+
