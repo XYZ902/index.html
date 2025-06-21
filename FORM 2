@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <body>
+<form>
+<fieldset>
+  <legend>Personal form</legend>
+  <label for="datepicker">Choose Date</label>
+  <input type="date" id="datepicker">
+  <br/>
+  <br/>
+  <label for="items">choose items</label>
+  <select name="stationary" id="items">
+   <option value="Pen">pen</order>
+    <option value="Pencil">pencil</order>
+  </select>
+  <br>
+  <textarea name='textArea1' id="textArea1" col="30" row="20" placeholder="enter text here"></textarea>
+  </fieldset>
+</form>
+    </body>
+  </head>
