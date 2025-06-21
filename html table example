@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<table border='2'>
+  <thead>
+    <th>Name</th>
+    <th>maths</th>
+    <th>sst</th>
+    <th>english</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2">ram</td>
+      <td>23</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>sham</td>
+      <td>13</td>
+      <td rowspan="2">20</td>
+      <td>17</td>
+    </tr>
+    <tr>
+      <td>sam</td>
+      <td>11</td>
+      <td>21</td>
+    </tr>
+    <tfoot>
+      <td>obervation </td>
+      <td colspan="3">average marks</td>
+    </tfoot>
+  </tbody>
+</table>  
+  </head>
+</html>
