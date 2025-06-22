@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <body>
+<section>
+  <h1> Product catalog</h1>
+  <ul>
+    <li><a href="#electronics">Electronics</a></li>
+    <li><a href="clothing">Clothing</a></li>
+    <li><a href="Home">home</a></li>
+  </ul>
+</section>
+  <div id="Electronics">
+    <section>
+      <h1>Electronics</h1>
+      <h2>Laptop</h2>
+  <p><strong>Description:</strong> this is amazing ram laptop </p>
+      <p><strong>Price:</strong> 200000</p>
+      <a href="about laptop ">Details</a
+    </section>
+  </div>
+        <div>
+    <section>
+      <h1>Clothing</h1>
+      <h2>jeans</h2>
+  <p><strong>Description:</strong> this is amazing ram laptop </p>
+      <p><strong>Price:</strong> 500</p>
+      <a href="about laptop ">Details</a
+    </section>
+  </div>
+       <div id="home">
+    <section>
+      <h1>home</h1>
