@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Image</h2>
+<img src="https://i.imgur.com/qET0P7c.jpeg" alt="Girl in a jacket" width="100" height="100">
+  <audio controls>
+    <source src="https://pixabay.com/music/beats-eona-emotional-ambient-pop-351436/" type="audio/Mp3">
+  </audio>
+  <video src="https://pixabay.com/videos/desert-dunes-sand-namibia-nature-284566/ " height="300px" controls></video>
+<iframe src=" https://www.youtube.com/embed/_qBqSpddM18 "></iframe>
+</body>
+</html
+
