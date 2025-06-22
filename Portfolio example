@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <body>
+  <div>
+    <div>
+      <h1>Ram</h1>
+      <p>contact:<a href="">coderxyz3@gmail.com</a></p>
+      <p>linkdin:<a href="">linkdin.com</a></p>
+      <p>instagram:<a href="">instagram.com</a></p>
+  </div>
+    <div>
+      <tr>
+        <td> The input formnovalidate attribute specifies that an  element should not be validated when submitted.
+
+Note: This attribute overrides the novalidate attribute of the element.
+
+The formnovalidate attribute works with the following input types: submit </td>
+      </tr>
+    </div>
+    <section>
+    <h1>Education  </h1>
+    <ul>
+      <li>little flower school</li>
+      <li>guru gobind  university</li>
+    </ul>
+    </section>
+<section>
+      <h2>work experience</h2>
+      <h3>kiwitech</h3>
+  <ul>
+    <li>work on sql</li>
+    <li>work on api</li>
+  </ul>
+</section>
+<section>
+  <details>
+    <summary> what is your name?</summary>
+    <p>my name is ram</p>
+    </details>
+      <details>
+    <summary>what is your age</summary>
+    <p> my age is 22</p>
+  </details>
+  </section>
+    </body>
+  </head>
+
