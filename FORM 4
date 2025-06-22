@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <body>
+      <h1>Job Application</h1>
+<form>
+  <label for="name">Name</label>
+  <input type="text" id="name">
+  <br/>
+  <br/>
+  <label for="email">Email Id</label>
+      <input type="text" id="email">
+  <br/>
+  <br/>
+  <label for="phone">Phone no</label>
+  <input type="text" id="phone">
+  <br/>
+  <br/>
+<label for="fileupload">Resume</label>
+  <input type="file" id="fileupload">
+  <br/>
+  <br/>
+  <label for="counter">Experience (years)</label>
+  <input type="number" id="counter" min=0 max="60">
+  <br/>
+  <br/>
+  <fieldset>
+    <legend>Skills</legend>
+    <label for="language">HTML</label>
+    <input type="checkbox" id="language">
+    <BR/
+    <label for="language2">CSS</label>
+    <input type="checkbox" id="language2">
+    <br/>
+        <label for="language3">Java</label>
+    <input type="checkbox" id="language3">
+  </fieldset>
+  <label for="education type">higgest edu</label>
+  <select name="education type" ID="education type">
+  <option value="A">A</option>
+  <option value="b">B</option>
+    <option value="c">C</option>
+    </select>>
+    <br/>
+    <br/>
+    <fieldset>
+      <legend>Available</legend>
+      <label for="radio1" >Parttime</label>
+      <input type="radio" id="radio1" name="Available">
+      <br/>
+      <label for="radio2">fulltime</label>
+      <input type="radio" id="radio2" name="Available">
+    </fieldset>
+  </form>
+    </body>
+  </head>
