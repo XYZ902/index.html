@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <header><h1>welcome to codehelp</h1></header>
+  <table>
+    <tr>
+      <td><iframe src=https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?resize=500,500" "></iframe></td>
+      <td><nav>
+        <ul>
+          <li><a href="">DSA</a></li>
+          <li><a href="">OOPS</li>
+      <li><a href="#Roadmap videos">ROAD map</a></li>
+        </ul>
+      </nav>
+      </td>
+    </tr>
+  </table>
+  
+
+  <h2>ABOUT CODEHELP</h2>
+  <P>The HTML DOM defines methods, properties, and events for the  element.
+
+This allows you to load, play, and pause videos, as well as setting duration and volume.
+
+There are also DOM events that can notify you when a video begins to play, is paused, etc.
+</P>
+  <h3>Additional Media</h3>
+  <table>
+    <tr>
+      <td><audio src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3 " controls></audio></td>
+      <td><video src="https://www.w3schools.com/html/mov_bbb.mp4"controls></td>
+    </tr>
+  </table>
+  
+<section id="Roadmap videos"
+  <h4>Roadmap videos</h4>
+  <table>
+    <tr>
+      <td><iframe src="https://www.youtube.com/embed/1ABPjYmkBVw"></iframe></td>
+      <td><iframe src="https://www.youtube.com/embed/qEBlMQiaIh4"></iframe></td>
+    </tr>
+    <tr>
+      <td><iframe src="https://www.youtube.com/embed/ReJM3C2j-ZU"></iframe></td>
+      <td><iframe src="https://www.youtube.com/embed/IXrRxiSL1VA"></iframe></td>
+    </tr>
+  </table>
+</body>
+</html
+
