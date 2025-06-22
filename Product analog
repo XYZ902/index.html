@@ -31,3 +31,12 @@
        <div id="home">
     <section>
       <h1>home</h1>
+      <h2>sunglasses</h2>
+  <p><strong>Description:</strong> this is amazing ram laptop </p>
+      <p><strong>Price:</strong> 1500</p>
+      <a href="about laptop ">Details</a
+    </section>
+  </div> 
+  
+    </body>
+  </head>
